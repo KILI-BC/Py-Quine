@@ -2,7 +2,7 @@
 ### A Python [Quine](https://en.wikipedia.org/wiki/Quine_(computing))
 ## What exactly is Py-Quine?
 This project generates its own source code when executed
-## How to run Sorting-Suite
+## How to run Py-Quine
 To execute the project simply fork it to a local drive and execute it with the following command:
 ```
 python3 quine.py
